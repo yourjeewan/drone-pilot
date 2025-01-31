@@ -1,0 +1,47 @@
+---
+title: "Become a Certificated Drone Pilot"
+author: "Jeewan Pandey"
+date: "2025-01-31"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Setting an Appointment
+
+- Obtain an **FAA Tracking Number (FTN)** through the [Integrated Airman Certification and Rating Application (IACRA)](https://iacra.faa.gov/IACRA/Default.aspx).
+  - This number is permanently associated with you throughout your career.
+- Schedule a time and date for the **Part 107 knowledge test** [Unmanned Aircraft General – Small (UAG)] at [FAA PSI Exams](https://faa.psiexams.com/faa/login) ($175 testing fee).
+- The knowledge test consists of **60 multiple-choice questions**, randomly selected from a large pool.  
+  **The minimum passing score is 70% (meaning, you'll need to get at least 42 questions right).**
+- Candidates have **2 hours** to complete the test.
+
+## Studying for the Knowledge Test
+
+The Part 107 knowledge test covers the following topics:
+
+- Regulations related to small unmanned aircraft system rating privileges, limitations, and flight operation.
+- Airspace classification, operating requirements, and flight restrictions affecting drone operation.
+- Aviation weather sources and effects of weather on drone performance.
+- Drone loading and performance.
+- Emergency procedures.
+- Crew resource management.
+- Radio communication procedures.
+- Performance determination of small unmanned aircraft.
+- Physiological effects of drugs and alcohol.
+- Aeronautical decision-making and judgment.
+- Airport operations.
+- Maintenance and preflight inspection procedures.
+- Night operation regulations.
+
+## Filing an Application for the Certificate
+
+- File an application for a **Part 107 Remote Pilot Certificate** through [IACRA](https://iacra.faa.gov/IACRA/).
+- The **Transportation Security Administration (TSA)** conducts a background check.
+
+## Keeping the Remote Pilot Certificate Current
+
+- Complete the **Part 107 Small UAS Recurrent (ALC-677) online training course** for free at [FAA Safety](https://www.faasafety.gov/gslac/ALC/CourseLanding.aspx?cID=677).
+
